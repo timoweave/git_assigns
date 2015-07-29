@@ -4,7 +4,7 @@
   "description": "git branch & merge",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"none\""
+    "test": "echo none"
   },
   "author": "",
   "license": "ISC",
