@@ -1,0 +1,17 @@
+
+* {
+        /* font-family: sans-serif; */
+        box-sizing: border-box;
+        padding: 10px;
+        margin: 0px;
+}
+
+h1 {
+        font-size:2em;
+}
+
+p {
+}
+.pic {
+        display: block;
+}

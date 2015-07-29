@@ -1,0 +1,14 @@
+{
+  "name": "git_assign3",
+  "version": "0.0.1",
+  "description": "git branch & merge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"none\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
