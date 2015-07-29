@@ -4,6 +4,8 @@
         box-sizing: border-box;
         padding: 10px;
         margin: 0px;
+        background-color: black;
+        color: white;
 }
 
 h1 {
@@ -11,7 +13,30 @@ h1 {
 }
 
 p {
+        width:80%;
 }
+
 .pic {
-        display: block;
+        display: inline-block;
+        width: 38%;
+        height: 400px;
+        padding: 1px;
+        margin: 1px;
+        border: 3px solid darkgrey;
+}
+
+#kitten1 {
+        background-image: url("kitten1.jpg");
+}
+
+#kitten2 {
+        background-image: url("kitten2.jpg");
+}
+
+#kitten3 {
+        background-image: url("kitten3.jpg");
+}
+
+#kitten4 {
+        background-image: url("kitten4.jpg");
 }
